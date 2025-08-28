@@ -9,7 +9,8 @@ This repository showcases a collection of Excel dashboard projects focused on bu
 
 ##  ​ Projects
 
-### 1. [Customer Churn Analysis](https://github.com/your-username/customer-churn-analysis-excel)
+### 1. [Customer Churn Analysis] 
+ [Churn Data Analysis](https://github.com/your-username/customer-churn-analysis-excel)
 - Analyzes customer churn patterns  
 - Dashboard includes churn rate, retention trends, and high-risk segments
 
