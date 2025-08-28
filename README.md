@@ -1,6 +1,6 @@
 # ​ Excel Projects 
 
-![Portfolio Banner](https://github.com/YashaswiniBaglakadi/Excel-Projects/blob/c95d0ed7707bec432653446182bd9ac0e19e89ef/banner/Excel%20Banner.png)
+![Portfolio Banner](https://github.com/YashaswiniBaglakadi/Excel-Projects/blob/1b2d7a57164651896791c2f6bf76ce755f6f6ff7/banner/excel%20banner.png)
 
 ## ​ Overview
 This repository showcases a collection of Excel dashboard projects focused on business insights and analytics. Each project includes interactive dashboards, visualizations, and key performance metrics using Excel.
@@ -17,7 +17,7 @@ This repository showcases a collection of Excel dashboard projects focused on bu
 - Explores engagement metrics across social platforms  
 - Tracks likes, comments, shares, impressions, and follower growth  
 
-### 3. [Sales & Finance Analytics (by YashaswiniBaglakadi)](https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics)
+### 3. [Sales & Finance Analytics ](https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics)
 - Evaluates financial and sales performance through Excel reports  
 - Features: customer sales performance, market vs. target analysis, division insights, top/bottom products, and detailed P&L dashboards :contentReference[oaicite:2]{index=2}
 
