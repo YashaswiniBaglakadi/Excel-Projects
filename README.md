@@ -10,15 +10,17 @@ This repository showcases a collection of Excel dashboard projects focused on bu
 ##  ​ Projects
 
 ### 1. [Customer Churn Analysis] 
- [(https://github.com/your-username/customer-churn-analysis-excel)
+(https://github.com/your-username/customer-churn-analysis-excel)
 - Analyzes customer churn patterns  
 - Dashboard includes churn rate, retention trends, and high-risk segments
 
-### 2. [Social Media Analysis](https://github.com/your-username/social-media-analysis-excel)
+### 2. [Social Media Analysis]
+ (https://github.com/YashaswiniBaglakadi/Social-media-analysis-excel.git)
 - Explores engagement metrics across social platforms  
 - Tracks likes, comments, shares, impressions, and follower growth  
 
-### 3. [Sales & Finance Analytics ](https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics)
+### 3. [Sales & Finance Analytics ]
+(https://github.com/YashaswiniBaglakadi/Excel-sales-Finance-Analytics.git)
 - Evaluates financial and sales performance through Excel reports  
 - Features: customer sales performance, market vs. target analysis, division insights, top/bottom products, and detailed P&L dashboards :contentReference[oaicite:2]{index=2}
 
